@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # Nguyễn Hoà Tiến
 
 [Email](mailto:work@nguyenhoatien.com) | [GitHub](https://github.com/nguyenhoatien)
