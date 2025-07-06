@@ -1,6 +1,6 @@
 # Project Hub for Sheets
 
-## Terms of Service for Project Hub for Sheets
+## Terms of Service
 
 **Last Updated:** July 6, 2025
 

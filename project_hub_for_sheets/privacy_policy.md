@@ -1,6 +1,6 @@
 # Project Hub for Sheets
 
-## Privacy Policy for Project Hub for Sheets
+## Privacy Policy
 
 **Last Updated:** July 6, 2025
 
