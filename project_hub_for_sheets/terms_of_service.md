@@ -1,18 +1,18 @@
-# Project Hub for Sheets
+# Project Hub for Google Sheets™
 
 ## Terms of Service
 
 **Last Updated:** July 6, 2025
 
-By installing and using the Project Hub for Sheets add-on ("the Add-on"), you agree to be bound by these Terms of Service ("Terms").
+By installing and using the Project Hub for Google Sheets™ add-on ("the Add-on"), you agree to be bound by these Terms of Service ("Terms").
 
 ### 1. License
 
-Project Hub for Sheets grants you a non-exclusive, non-transferable, revocable license to use the Add-on for your personal or internal business purposes, strictly in accordance with these Terms.
+Project Hub for Google Sheets™ grants you a non-exclusive, non-transferable, revocable license to use the Add-on for your personal or internal business purposes, strictly in accordance with these Terms.
 
 ### 2. Use of the Add-on
 
-You agree to use the Add-on only for its intended purpose of creating and managing project templates within Google Sheets. You are responsible for any content you create and manage using the Add-on.
+You agree to use the Add-on only for its intended purpose of creating and managing project templates within Google Sheets™. You are responsible for any content you create and manage using the Add-on.
 
 ### 3. Disclaimer of Warranties
 
@@ -20,7 +20,7 @@ The Add-on is provided "AS IS" and "AS AVAILABLE," without any warranties of any
 
 ### 4. Limitation of Liability
 
-In no event shall Project Hub for Sheets be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Add-on.
+In no event shall Project Hub for Google Sheets™ be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Add-on.
 
 ### 5. Governing Law
 
@@ -33,3 +33,6 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 ### 7. Contact Us
 
 If you have any questions about these Terms, please contact us at: [work@nguyenhoatien.com]
+
+---
+*Google Sheets™ is a trademark of Google LLC.*

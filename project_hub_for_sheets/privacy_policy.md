@@ -1,14 +1,14 @@
-# Project Hub for Sheets
+# Project Hub for Google Sheets™
 
 ## Privacy Policy
 
 **Last Updated:** July 6, 2025
 
-This Privacy Policy describes how Project Hub for Sheets ("the Add-on") handles your information when you use our Google Sheets add-on.
+This Privacy Policy describes how Project Hub for Google Sheets™ ("the Add-on") handles your information when you use our Google Sheets™ add-on.
 
 ### 1. Information We Do Not Collect
 
-We want to be crystal clear: **Our Add-on does not collect, store, or transmit any of your personal data or any data from your Google Sheets to our servers or any third party.**
+We want to be crystal clear: **Our Add-on does not collect, store, or transmit any of your personal data or any data from your Google Sheets™ to our servers or any third party.**
 
 ### 2. How the Add-on Works
 
@@ -18,7 +18,7 @@ The Add-on operates entirely within your Google account's environment. It requir
 - Adding headers and formatting to these sheets.
 - Creating a custom menu to launch these functions.
 
-All data remains in your Google Sheet, under your control, and is subject to Google's Privacy Policy. We do not have access to see, copy, or store any of your content.
+All data remains in your Google Sheets™, under your control, and is subject to Google's Privacy Policy. We do not have access to see, copy, or store any of your content.
 
 ### 3. Use of Google User Data
 
@@ -31,3 +31,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ### 5. Contact Us
 
 If you have any questions about this Privacy Policy, you can contact us at: [work@nguyenhoatien.com]
+
+---
+*Google Sheets™ is a trademark of Google LLC.*
