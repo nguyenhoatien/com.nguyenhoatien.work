@@ -8,7 +8,7 @@ Chào mừng đến với trang cá nhân của tôi. Tôi là một lập trìn
 
 ## Dự án của tôi
 
-### Project Hub for Google Sheets™
+### Project Hub
 
 Đây là dự án add-on dành cho Google Sheets™ mà tôi đang phát triển. Mục tiêu của dự án là cung cấp một bộ công cụ mạnh mẽ giúp người dùng khởi tạo nhanh một "Project Hub" (Trung tâm quản lý dự án) chỉ với một cú nhấp chuột.
 

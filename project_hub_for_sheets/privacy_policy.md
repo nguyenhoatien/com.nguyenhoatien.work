@@ -1,10 +1,10 @@
-# Project Hub for Google Sheets™
+# Project Hub
 
 ## Privacy Policy
 
 **Last Updated:** July 6, 2025
 
-This Privacy Policy describes how Project Hub for Google Sheets™ ("the Add-on") handles your information when you use our Google Sheets™ add-on.
+This Privacy Policy describes how Project Hub ("the Add-on") handles your information when you use our Google Sheets™ add-on.
 
 ### 1. Information We Do Not Collect
 

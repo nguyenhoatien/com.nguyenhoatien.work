@@ -1,14 +1,14 @@
-# Project Hub for Google Sheets™
+# Project Hub
 
 ## Terms of Service
 
 **Last Updated:** July 6, 2025
 
-By installing and using the Project Hub for Google Sheets™ add-on ("the Add-on"), you agree to be bound by these Terms of Service ("Terms").
+By installing and using the Project Hub add-on ("the Add-on"), you agree to be bound by these Terms of Service ("Terms").
 
 ### 1. License
 
-Project Hub for Google Sheets™ grants you a non-exclusive, non-transferable, revocable license to use the Add-on for your personal or internal business purposes, strictly in accordance with these Terms.
+Project Hub grants you a non-exclusive, non-transferable, revocable license to use the Add-on for your personal or internal business purposes, strictly in accordance with these Terms.
 
 ### 2. Use of the Add-on
 
@@ -20,7 +20,7 @@ The Add-on is provided "AS IS" and "AS AVAILABLE," without any warranties of any
 
 ### 4. Limitation of Liability
 
-In no event shall Project Hub for Google Sheets™ be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Add-on.
+In no event shall Project Hub be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Add-on.
 
 ### 5. Governing Law
 
